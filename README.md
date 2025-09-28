@@ -1,9 +1,7 @@
-# Satellite Command System
+# Astronaut Daily Schedule Organizer
 
 ## How to Run
 
-1. Open a terminal and go to the `satelite` folder.
+1. javac AstronautScheduleApp.java 
 
-2. Compile the Java file:
-```bash
-javac SatelliteCommandSystem.java
+2. java AstronautScheduleApp
